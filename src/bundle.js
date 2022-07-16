@@ -361,13 +361,13 @@ module.exports = __webpack_require__.p + "images/svg/design.svg";
 /* 8 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "images/svg/digitalcontent-wire.svg";
+module.exports = __webpack_require__.p + "/images/svg/digitalcontent-wire.svg";
 
 /***/ }),
 /* 9 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "images/svg/digitalcontent.svg";
+module.exports = __webpack_require__.p + "/images/svg/digitalcontent.svg";
 
 /***/ }),
 /* 10 */
